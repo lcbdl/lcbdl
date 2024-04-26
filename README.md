@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello and Welcome 👋, I'm Chuanbao Lu
 
-<!--
-**lcbdl/lcbdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Developer
 
-Here are some ideas to get you started:
+- 👨‍🏫 I enjoy designing and coding application using React, Angular, Node JS, and Java
+- 🌱 I'm currently learning AI and how to integrate AI in applications
+- 🏆 Goal: Be the person I needed when I was younger
+- ⚡ Motto: _Keep striving for progress, not perfection_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stacks
+
+- 🌎 Frontend: React, Next.js, Redux, Angular, RxJs, NgRx, Bootstrap, Tailwind, Material-UI
+- 🧑‍💻️ Backend: Java, Springboot, Node.js, Nest.js Express, 
+- ☁️ Cloud: AWS, Azure 
+- 📊 Database: Both SQL and No-SQL databases
+
