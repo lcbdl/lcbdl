@@ -14,4 +14,7 @@
 - ☁️ Cloud: AWS, Azure 
 - 📊 Database: Both SQL and No-SQL databases
 
-## [My Blogs](https://lcbdl.github.io/doc-site/)
+## My Blogs
+
+- [Angular Signal Explained](https://lcbdl.github.io/doc-site/blog/1.0.0/angular/angular-signal-guide.html)
+- [Angular Signal Input, Output, and Model](https://lcbdl.github.io/doc-site/blog/1.0.0/angular/angular-signal-input-output.html)
